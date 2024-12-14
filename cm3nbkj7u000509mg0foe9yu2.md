@@ -111,6 +111,8 @@ Several features of EOS stood out to me and significantly improved my game's per
 
 Overall, EOS provided a comprehensive and reliable solution that enhanced my game development process and delivered a superior gaming experience for players.
 
+%%[itch-party-madness] 
+
 ## **Success Stories**
 
 ![Fortnite](https://images.prismic.io/loartdev-v2/ZzZ_eq8jQArT05Ip_download-header-img-2450x1378-d66245a1caea.jpg?auto=format%2Ccompress&fit=max&w=3840 align="left")
