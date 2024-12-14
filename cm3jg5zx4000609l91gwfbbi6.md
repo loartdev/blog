@@ -17,6 +17,8 @@ tags: game-development, game-design, indiedev, gamedev, game-jam, game-maker-2
 
 [![Ascension Belle's Offering Jumping and Grappling](https://images.prismic.io/loartdev-v2/ZpWRYB5LeNNTxK7z_2024-07-1517-01-51-2-.gif?auto=format%2Ccompress&fit=max&w=1920 align="center")](https://loartdev.itch.io/ascension-belles-offering)
 
+%%[itch-ascension-belles] 
+
 ## **Game Description**
 
 The player plays as Belle, a soul trying to escape Hades. To do so, the player must navigate through three zones, Hades, Overworld, and Olympus, while collecting offerings for the gods. Each zone has its unique obstacles, enemies, and challenges that add depth to the gameplay, The game use time as a score and punishment for the player, while rewarding precision, timing, and strategic use of the grappling mechanics.
